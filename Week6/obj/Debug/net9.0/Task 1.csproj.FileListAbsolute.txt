@@ -1,0 +1,14 @@
+D:\dotnet tutorial\Week6\Week6\bin\Debug\net9.0\Task 1.exe
+D:\dotnet tutorial\Week6\Week6\bin\Debug\net9.0\Task 1.deps.json
+D:\dotnet tutorial\Week6\Week6\bin\Debug\net9.0\Task 1.runtimeconfig.json
+D:\dotnet tutorial\Week6\Week6\bin\Debug\net9.0\Task 1.dll
+D:\dotnet tutorial\Week6\Week6\bin\Debug\net9.0\Task 1.pdb
+D:\dotnet tutorial\Week6\Week6\obj\Debug\net9.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet tutorial\Week6\Week6\obj\Debug\net9.0\Task 1.AssemblyInfoInputs.cache
+D:\dotnet tutorial\Week6\Week6\obj\Debug\net9.0\Task 1.AssemblyInfo.cs
+D:\dotnet tutorial\Week6\Week6\obj\Debug\net9.0\Task 1.csproj.CoreCompileInputs.cache
+D:\dotnet tutorial\Week6\Week6\obj\Debug\net9.0\Task 1.dll
+D:\dotnet tutorial\Week6\Week6\obj\Debug\net9.0\refint\Task 1.dll
+D:\dotnet tutorial\Week6\Week6\obj\Debug\net9.0\Task 1.pdb
+D:\dotnet tutorial\Week6\Week6\obj\Debug\net9.0\Task 1.genruntimeconfig.cache
+D:\dotnet tutorial\Week6\Week6\obj\Debug\net9.0\ref\Task 1.dll

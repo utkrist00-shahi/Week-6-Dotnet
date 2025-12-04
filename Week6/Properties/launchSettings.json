@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Week6": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
